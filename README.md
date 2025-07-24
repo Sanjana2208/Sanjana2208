@@ -1,2 +1,2 @@
 # sparkbank
-In this transfer money between the accounts.
+In this transfer of money between the accounts.
